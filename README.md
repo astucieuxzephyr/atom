@@ -30,3 +30,7 @@
     > git commit -m "Mise à jour des fichiers de config Atom"
 * Mise à jour du repo sur GitHub
     > git push atom master
+    
+## References
+* How to synchronize Atom between computers
+https://web.archive.org/web/20150209005743/http://www.atomtips.com:80/how-to-synchronize-atom-between-computers/
