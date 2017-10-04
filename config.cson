@@ -1,0 +1,116 @@
+"*":
+  "atom-autocomplete-php":
+    binComposer: "C:\\ProgramData\\ComposerSetup\\bin\\composer.phar"
+    binPhp: "C:\\wamp\\bin\\php\\php5.5.12\\php.exe"
+  "atom-package-deps":
+    ignored: []
+  "autocomplete-plus":
+    backspaceTriggersAutocomplete: true
+    maxVisibleSuggestions: 16
+  "break-time":
+    break: 6
+    intervalcount: 6
+    microinterval: 9
+  core:
+    customFileTypes:
+      "text.html.php": [
+        "theme"
+      ]
+    disabledPackages: [
+      "project-manager"
+      "project-plus"
+      "wakatime"
+      "break-time"
+      "linter-drupalcs"
+      "drag-drop-text"
+      "php-integrator-base"
+      "php-integrator-linter"
+      "php-integrator-call-tips"
+      "php-integrator-tooltips"
+      "php-integrator-navigation"
+      "php-integrator-autocomplete-plus"
+      "brunch-with-atom"
+      "tree-view-git-status"
+      "keyboard-localization"
+    ]
+    telemetryConsent: "no"
+  devunity:
+    apikey: "anonymous"
+  docblockr: {}
+  drupal:
+    fileTypesPhp: "module,install,inc,test"
+  editor:
+    backUpBeforeSaving: true
+    fontSize: 16
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "18e3d778-6c68-3ff7-23f5-82df3fb64835"
+  "fold-functions": {}
+  "git-diff": {}
+  "git-plus":
+    general:
+      _analyticsUserId: "e56b3c28-7668-41ec-aff3-88e9f4ad876b"
+  jsonpp: {}
+  "keybinding-cheatsheet":
+    alwaysShowGroups: [
+      "snippets"
+      "emmet"
+      "autocomplete"
+      "git-diff-details"
+      "git-diff"
+      "block-comment-lines"
+      "settings-view"
+      "block-comment"
+      "aligner"
+      "project-find"
+      "keybindings-cheatsheet"
+      "color-picker"
+      "devdocs"
+      "bookmarks"
+      "fuzzy-finder"
+      "command-palette"
+      "styleguide"
+      "grammar-selector"
+      "go-to-line"
+    ]
+    hideAllOthers: true
+  "keyboard-localization":
+    useKeyboardLayout: "fr_FR"
+  "line-ending-converter":
+    normalizeEolOnSave: "Auto Detect (Use First Row's EOL)"
+  linter: {}
+  "linter-drupalcs":
+    ignore: "*.js"
+  "linter-php":
+    executablePath: "C:\\wamp\\bin\\php\\php5.5.12\\php.exe"
+  "linter-ui-default":
+    panelHeight: 69
+    showPanel: true
+  minimap:
+    absoluteMode: true
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      linter: true
+      linterDecorationsZIndex: 0
+      "split-diff": true
+      "split-diffDecorationsZIndex": 0
+  "minimap-git-diff": {}
+  "minimap-linter": {}
+  "php-cs-fixer": {}
+  "php-integrator-base": {}
+  pigments: {}
+  "project-plus":
+    showPath: true
+  "project-ring":
+    makeTheCurrentProjectTheDefaultAtStartUp: true
+  "project-viewer":
+    disclaimer:
+      v121: false
+  "wakatime-hidden":
+    lastInit: 1465827492
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,470 @@
+{
+  "info": {
+    "version": "1.0.15",
+    "updated": "2017-10-03T12:23:20.128Z"
+  },
+  "root": [
+    {
+      "type": "group",
+      "name": "D8",
+      "sortBy": "position",
+      "icon": "icon-puzzle",
+      "color": "#517cce",
+      "expanded": false,
+      "list": [
+        {
+          "type": "project",
+          "name": "Arte-Autographe (D8)",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\Arte-Autographe\\www"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "D8 local",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\drupal8"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "module tbh_outils",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\drupal8\\modules\\custom\\tbh_outils"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "D8 Tuto Dev",
+          "icon": "icon-star",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\drupal8tutodev"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "DockerProjects",
+      "sortBy": "position",
+      "icon": "",
+      "color": "#616fe7",
+      "expanded": true,
+      "list": [
+        {
+          "type": "project",
+          "name": "NodeJS",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\Users\\Eurelis\\Documents\\DockerProjects\\projet_nodejs"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "LAMP (ubuntu)",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\Users\\Eurelis\\Documents\\DockerProjects\\projet_lamp"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Eurélis",
+      "sortBy": "position",
+      "icon": "icon-calendar",
+      "color": "#fbb85e",
+      "expanded": true,
+      "list": [
+        {
+          "type": "project",
+          "name": "MaisonDeLaRadio",
+          "icon": "icon-megaphone",
+          "color": "#ff5722",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\MaisonDeLaRadio\\www"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "TV5Monde-Jeunesse",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\Users\\Eurelis\\Raccourcis\\Mes raccourcis\\www - TV5Monde-Jeunesse\\www"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "TV5Monde-Voyage",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\TV5Monde-Voyage\\www"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Citroen-Origins",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\citroen-origins"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "FFC",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\FFC\\bdd-distributeurs\\www"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Polylogis-Esp Locataire",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\polylogis"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "ParisAX",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\ParisAX"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "TV5Monde-LaDictee",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\TV5Monde-LaDictee"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Eurélis Corporate",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\eurelis"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Touzet",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\Touzet-SiteCorporate"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "(D6) Polylogis-SiteCorporate",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp20d\\www\\Polylogis-SiteCorporate"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Raccourcis Atom",
+      "sortBy": "position",
+      "icon": "icon-eye",
+      "color": "#cd77d9",
+      "expanded": false,
+      "list": [
+        {
+          "type": "project",
+          "name": "Find in Project : Ctrl-Shift-F",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\Users\\Tanguy\\test"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Keybindings : Ctrl-Alt-:",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\test"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Settings : Ctrl ,",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\test"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Langage : Ctrl-Shift-L",
+          "icon": "icon-settings",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": []
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Test",
+      "sortBy": "position",
+      "icon": "icon-bookmark",
+      "color": "#00f03d",
+      "expanded": true,
+      "list": [
+        {
+          "type": "project",
+          "name": "My-App (ExtJS)",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\sencha\\my-app"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Win-App (ExtJS)",
+          "icon": "icon-device-desktop",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\sencha\\win-app"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Redux exemple",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\redux-example"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Respond5",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\respond\\app"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "D7 Test",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\drupal7"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "testfusion docX",
+          "icon": "icon-rocket",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\testfusion"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "fusiondocx (node)",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\fusiondocx"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Aides",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": []
+        },
+        {
+          "type": "project",
+          "name": "sfmicro (Symfony2 MicroFramework)",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\Users\\Eurelis\\Raccourcis\\Mes raccourcis\\www\\sfmicro"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "my-test-app (Angular2)",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\usr\\www\\angular2\\my-test-app"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "pagekit Test",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\pagekit"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "Respond6",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\respond6"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "sf3projet",
+          "icon": "icon-mortar-board",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\sf3projet"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "ptka (mongo + sf3)",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\usr\\home\\ptka"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "toulipo",
+          "icon": "",
+          "color": "",
+          "devMode": false,
+          "config": {},
+          "paths": []
+        },
+        {
+          "type": "project",
+          "name": "reseaupsy",
+          "icon": "icon-link",
+          "color": "#9531ae",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\reseaupsy"
+          ]
+        },
+        {
+          "type": "project",
+          "name": "OkNo Site",
+          "icon": "icon-beaker",
+          "color": "#bf3100",
+          "devMode": false,
+          "config": {},
+          "paths": [
+            "C:\\wamp\\www\\oknosite"
+          ]
+        }
+      ]
+    }
+  ]
+}
