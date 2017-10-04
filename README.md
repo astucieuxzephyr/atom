@@ -1,5 +1,4 @@
-Fichier Readme
+Sauvegarde Editeur Atom
 
-Test de git
-Permet de tester les commandes Git
+Sauvegarde des paramètres Editeur ATOM https://atom.io/
 
