@@ -1,7 +1,7 @@
 {
   "info": {
     "version": "1.0.15",
-    "updated": "2017-10-03T12:23:20.128Z"
+    "updated": "2017-10-19T12:30:59.496Z"
   },
   "root": [
     {
@@ -283,28 +283,6 @@
       "list": [
         {
           "type": "project",
-          "name": "My-App (ExtJS)",
-          "icon": "",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": [
-            "C:\\wamp\\www\\sencha\\my-app"
-          ]
-        },
-        {
-          "type": "project",
-          "name": "Win-App (ExtJS)",
-          "icon": "icon-device-desktop",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": [
-            "C:\\wamp\\www\\sencha\\win-app"
-          ]
-        },
-        {
-          "type": "project",
           "name": "Redux exemple",
           "icon": "",
           "color": "",
@@ -312,17 +290,6 @@
           "config": {},
           "paths": [
             "C:\\wamp\\www\\redux-example"
-          ]
-        },
-        {
-          "type": "project",
-          "name": "Respond5",
-          "icon": "",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": [
-            "C:\\wamp\\www\\respond\\app"
           ]
         },
         {
@@ -360,59 +327,6 @@
         },
         {
           "type": "project",
-          "name": "Aides",
-          "icon": "",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": []
-        },
-        {
-          "type": "project",
-          "name": "sfmicro (Symfony2 MicroFramework)",
-          "icon": "",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": [
-            "C:\\Users\\Eurelis\\Raccourcis\\Mes raccourcis\\www\\sfmicro"
-          ]
-        },
-        {
-          "type": "project",
-          "name": "my-test-app (Angular2)",
-          "icon": "",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": [
-            "C:\\usr\\www\\angular2\\my-test-app"
-          ]
-        },
-        {
-          "type": "project",
-          "name": "pagekit Test",
-          "icon": "",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": [
-            "C:\\wamp\\www\\pagekit"
-          ]
-        },
-        {
-          "type": "project",
-          "name": "Respond6",
-          "icon": "",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": [
-            "C:\\wamp\\www\\respond6"
-          ]
-        },
-        {
-          "type": "project",
           "name": "sf3projet",
           "icon": "icon-mortar-board",
           "color": "",
@@ -435,15 +349,6 @@
         },
         {
           "type": "project",
-          "name": "toulipo",
-          "icon": "",
-          "color": "",
-          "devMode": false,
-          "config": {},
-          "paths": []
-        },
-        {
-          "type": "project",
           "name": "reseaupsy",
           "icon": "icon-link",
           "color": "#9531ae",
@@ -455,13 +360,13 @@
         },
         {
           "type": "project",
-          "name": "OkNo Site",
-          "icon": "icon-beaker",
-          "color": "#bf3100",
+          "name": "assoclibres",
+          "icon": "devicons-wordpress",
+          "color": "#f75468",
           "devMode": false,
           "config": {},
           "paths": [
-            "C:\\wamp\\www\\oknosite"
+            "C:\\wamp\\www\\assoclibres"
           ]
         }
       ]
