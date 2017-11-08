@@ -24,12 +24,17 @@
     > apm list --installed --bare > package.list
     - Ou bien (si vous êtes dans un autre dossier)
         > apm list --installed --bare > ~/.atom/package.list
-* Mettre les fichiers modifiés dans le stage :
+* Sous ATOM, dans les paramètres du module Sync Settings
+    - Copier et mettre de côté le Personal Access Token (dans un éditeur)
+    - Vider le champ Personal Access Token
+* Mettre tous les fichiers modifiés dans le stage :
     > git add \*.\*
 * Commit des fichiers en local
     > git commit -m "Mise à jour des fichiers de config Atom"
 * Mise à jour du repo sur GitHub
     > git push atom master
+* Une fois le repo à jour, sous ATOM, dans les paramètres du module Sync Settings
+    - Replacer dans le champ Personal Access Token le token précédemment mise de côté
     
 ## References
 * How to synchronize Atom between computers
