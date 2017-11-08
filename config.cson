@@ -111,10 +111,9 @@
     disclaimer:
       v121: false
   "sync-settings":
-    _lastBackupHash: "322382e576ff7c451dd067297f47c051af608dc3"
+    _lastBackupHash: "6058bae122111eed9f51dce96921b0d02f42e61f"
     gistDescription: "mise à jour automatique par http://atom.io/packages/sync-settings"
     gistId: "28247b8deccf1647d539117e44637267"
-    personalAccessToken: "b0afe16e3a815ed2dad7d54a97868a00a91bb413"
   "wakatime-hidden":
     lastInit: 1465827492
   welcome:
