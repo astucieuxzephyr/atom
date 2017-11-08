@@ -39,3 +39,5 @@
 ## References
 * How to synchronize Atom between computers
 https://web.archive.org/web/20150209005743/http://www.atomtips.com:80/how-to-synchronize-atom-between-computers/
+* Module Sync Settings pour Atom
+https://atom.io/packages/sync-settings
