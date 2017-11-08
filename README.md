@@ -17,8 +17,8 @@
 ## Pour maintenir ce projet à jour sur GitHub :
 
 * Sous Windows, se placer dans le dossier de config d'atom
-    > cd C:\Users\NomUtilisateur\.atom
-* Télécharger d'éventuels changements
+    > cd C:\Users\NomUtilisateur\\.atom
+* Télécharger d'éventuels changements (Par exemple ce fichier README.md peut avoir été modifié sur GitHub directement)
     > git pull atom master
 * Mettre à jour le fichier de qui contient la liste des packages
     > apm list --installed --bare > package.list
