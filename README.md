@@ -2,12 +2,12 @@
 -----------------------------------------------------
 
 **Rappels :**
-- Sous Windows, ces fichiers doivent se trouver dans le dossier C:\Users\NomUtilisateur\.atom
+- Sous Windows, ces fichiers doivent se trouver dans le dossier C:\Users\NomUtilisateur\\.atom
 - Site Editeur Atom : https://atom.io/
 
 ## Pour récupérer ce projet sur votre PC (sous Windows) :
 * Ci-dessous, changer le NomUtilisateur avec celui de votre PC
-    > cd C:\Users\NomUtilisateur\.atom
+    > cd C:\Users\NomUtilisateur\\.atom
     > git clone https://github.com/astucieuxzephyr/atom
 * Récupérer les packages automatiquement sur votre PC
     > apm install --packages-file package.list
